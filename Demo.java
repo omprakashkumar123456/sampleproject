@@ -5,6 +5,7 @@ static int b=20; //Static variable.
 public static void main (String[] arg)
 {
 int c=30; //Local variable.
+int e=90;
 final int D=40; //final variable.
 Test t=new Test ();//object creation
 system.out.println(t.a);
